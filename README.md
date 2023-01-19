@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fehjulia
 - 👀 I’m interested in Motion design and codes
-- 🌱 I’m currently learning Java, QA Test.
+- 🌱 I’m currently learning Java,Javascript, Phython and QA Test.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... here!
 
